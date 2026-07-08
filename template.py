@@ -1,6 +1,7 @@
+import logging
 import os
 from pathlib import Path
-import logging
+
 project_name = "Data_Science_Project"
 list_of_files = [
     f"src/{project_name}/__init__.py",
